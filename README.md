@@ -1,3 +1,10 @@
+# Frontend steps-
+get list of sellers along with bids
+http://localhost:4200/getProduct
+
+-----------------------------------------------------------------------------------------
+# Backend steps-
+
 # kafka-publisher
 Apache Kafka Publisher Example using SpringBoot
 
